@@ -90,8 +90,7 @@ python kafka/producer.py
 ```
 
 ### 5. Analytics & Dashboarding
-- Run EDA script: `python notebooks/eda_analysis.py` (Outputs images to `docs/images`)
-- View [Dashboard Guide](docs/dashboard_guide.md) to build the BI dashboard.
+View the Tableau Dashboard 
 
 ## Key Insights & KPIs
 - **Wellness Score**: Composite metric of Activity + Sleep.
